@@ -1,1 +1,1 @@
-
+This folder contains the first lab activity for COSC-111, where we learned how to control multiple LEDs using an Arduino. The program turns five LEDs on and off one by one with a fixed time delay. We used an array to keep track of the LED pins and a loop to turn them on and off in sequence. This activity helped us practice basic programming concepts like loops and arrays while seeing how code can directly control hardware. It also taught us the importance of proper circuit setup and timing in electronics.
